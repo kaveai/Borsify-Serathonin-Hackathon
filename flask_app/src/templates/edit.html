@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ post.title }}{% endblock %}
+
+{% block body %}
+  <h2 class="text-center">Edit Post</h2>
+  <div class="row">
+    <div class="offset-sm-2 col-sm-8">
+      <form method="post">
+        <div class="form-group">
+          <label for="title">Post Title</label>
+          <input class="form-control" id="title" type="text" name="title" value="{{ post.title }}" required>
+        </div>
+        <div class="form-group">
+          <label for="title">Post Body</label>
+          <textarea class="form-control" id="post" name="body" rows="6" required>{{ post.body }}</textarea>
+        </div>
+        <button class="btn btn-primary submit-btn" type="submit">Update</button>
+      </form>
+    </div>
+  </div>
+{% endblock %}
