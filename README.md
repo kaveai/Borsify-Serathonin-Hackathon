@@ -4,8 +4,10 @@
 **Ka|Ve / Yunus Emre Gündoğmuş, Mert Nuhuz, Kadircan Özdemir**
 
 ## Özet
+Borsify - Kullanımı Kolay & Kişiselleştirilmiş Yatırım Asistanı
 
-
+Borsify, 
+Aynı zamanda Twitter, KAP, Bloomberg gibi haber kaynaklarından topladığı verileri anlamlandırır, işler ve kullanıcıya servis eder. 
 ## Gerekli Kütüphaneler
 
 ``` python
