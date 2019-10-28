@@ -6,7 +6,7 @@
 ## Özet
 Borsify - Kullanımı Kolay & Kişiselleştirilmiş Yatırım Asistanı
 
-Borsify, 
+Borsify, ##Düzenlenecek##
 Aynı zamanda Twitter, KAP, Bloomberg gibi haber kaynaklarından topladığı verileri anlamlandırır, işler ve kullanıcıya servis eder. 
 ## Gerekli Kütüphaneler
 
