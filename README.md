@@ -1,10 +1,4 @@
-# Borsify Proje Kodları
-**Ekim 2019 / [Serathon-in Hackathon](http://serathonin.org.tr/default.aspx)**
-
-**Ka|Ve / Yunus Emre Gündoğmuş, Mert Nuhuz, Kadircan Özdemir**
-
-## Özet
-Borsify - Kullanımı Kolay & Kişiselleştirilmiş Yatırım Asistanı
+## Borsify - Kullanımı Kolay & Kişiselleştirilmiş Yatırım Asistanı
 
 Borsify, Sermaye piyasalarına girmemiş, aynı zamanda borsadaki karışık arayüzlerden korkan, çekinen, Eğer hisse alırsa o hisseye dair bilgi akışına hakimiyet sağlayamayacağını düşünen kişiler için, kişiselleştirilmiş asistanı, sade arayüzü ile çözümler sunar. Aynı zamanda Twitter, KAP, Bloomberg gibi haber kaynaklarından topladığı verileri anlamlandırır, işler ve kullanıcıya servis eder.  
 
@@ -38,3 +32,8 @@ xlrd==1.2.0
 
 - **Hisse Takip, Bildirim Sayfası Görseli**
 ![Froto Ana Sayfa Görsel](listeler_gorsel.png)
+
+
+**Ekim 2019 / [Serathon-in Hackathon](http://serathonin.org.tr/default.aspx)**
+
+**Ka|Ve / Yunus Emre Gündoğmuş, Mert Nuhuz, Kadircan Özdemir**
