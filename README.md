@@ -1,6 +1,6 @@
 ## Borsify - Kullanımı Kolay & Kişiselleştirilmiş Yatırım Asistanı
 
-Borsify, Sermaye piyasalarına girmemiş, aynı zamanda borsadaki karışık arayüzlerden korkan, çekinen, Eğer hisse alırsa o hisseye dair bilgi akışına hakimiyet sağlayamayacağını düşünen kişiler için, kişiselleştirilmiş asistanı, sade arayüzü ile çözümler sunar. Aynı zamanda Twitter, KAP, Bloomberg gibi haber kaynaklarından topladığı verileri anlamlandırır, işler ve kullanıcıya servis eder.  
+Borsify, sermaye piyasasına girmekten çekinen, borsadaki karışık arayüzlerden korkan kişilere hitap eder. Ayrıca hisse alırsa o hisseye dair bilgi akışına hakimiyet sağlayamayacağını düşünen kişiler için kişiselleştirilmiş asistanı, sade arayüzü ile çözümler sunar. Aynı zamanda Twitter, KAP ve çeşitli haber kaynaklarından topladığı verileri anlamlandırır, işler ve kullanıcıya servis eder.
 
 ## Altyapı
 - Borsify içerisinde, LightGBM ile kurulmuş, 8 yıllık borsa verilerini 7 günlük window_size'ler ile öğrenen bir makine öğrenmesi algoritmasına sahiptir. Bu algoritma ile belirlenen hissenin önümüzdeki 7 günlük tahminini gerçekleştirir. 
